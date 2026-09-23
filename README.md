@@ -50,4 +50,26 @@ and instead uses GPIO using the standard linux [gpiod](https://libgpiod.readthed
 output on CN6.
 
 
-##
+## Recommended Accessories
+
+For all of the above CPUs, when purchased without our IDAN or HIDAN enclosures, it is recommended to purchase a [XK-CM107](https://www.rtd.com/Cables/XK-CM107.htm) 
+cable kit. This kit provide power and reset buttons, a CMOS battery, and two USB 2.0 Type A connections. Without a battery, some
+settings and the real-time clock are lost when power is disconnected completely.
+
+
+
+
+## Getting Technical Support
+
+If you require additional support with these products from RTD Embedded Technologies, contact us using the information below:
+
+RTD Embedded Technologies, Inc.\
+103 Innovation Boulevard\
+State College, PA 16803 USA
+
+
+Telephone: (814) 234-8087\
+Fax: (814) 234-5218\
+Sales Information and Quotes: sales@rtd.com\
+Technical Assistance: techsupport@rtd.com\
+Web Site: [https://www.rtd.com](https://www.rtd.com)
