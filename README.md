@@ -1,15 +1,19 @@
 # RTD CPU Support Page
 This package includes the full available catalog of RTD CPU manuals, and supported 3rd party software.
-The contents are broken up by processor series. 
+The contents are broken up by processor series. In general, all manuals include information about all
+versions of the products including variations for our [IDAN and HiDAN](https://www.rtd.com/systems/default.htm)
+enclosures. The full list for each series will include the following sequences in the part name, in 
+addition to other numbers and letters. 
 
+If your RTD processor is not found here, such as our legacy devices. More information can 
+be found on our [website](https://www.rtd.com/PC104/PC104_cpuModule.htm#gsc.tab=0), or by contacting RTD.
 
 ## Intel x86 Products
 RTD's single board computers are named after the former code names for the Intel processors, the Kaby Lake (KB), 
-the Bay Trail (BT), and the Chief River (CR). The full list for each series will include the following sequences 
-in the part name, in addition to other numbers and letters. A folder with the appropriate manual and 3rd party Windows software 
-is provided in a separate folder. If your RTD processor is not found here, contact techsupport@rtd.com for .
+the Bay Trail (BT), and the Chief River (CR). A folder with the appropriate manual and 3rd party Windows software 
+is provided in a separate folder. 
 
-The [Intel Xeon and Core i3](https://www.rtd.com/PC104/CM/processor_kb.htm) (Kaby Lake) series includes:
+The [Intel Xeon and Core i3](Xeon-i3/Xeon-i3-readme.md) (Kaby Lake) series includes:
 - CMA34KBD2100
 - CMA34KBQ2200
 - CMA34KBQ3000
@@ -17,13 +21,14 @@ The [Intel Xeon and Core i3](https://www.rtd.com/PC104/CM/processor_kb.htm) (Kab
 - CMX34KBQ2200
 - CMX34KBQ3000
 
-The [Intel Atom E3800](https://www.rtd.com/PC104/CM/processor_bt.htm) (Bay Trail) series includes:
+
+The [Intel Atom E3800](Atom-3800/Atom-3800-readme.md) (Bay Trail) series includes:
 - CME34BT
 - CMX34BT
 - CMA24BT
 - CML24BT
 
-The [Core i7](https://www.rtd.com/PC104/CM/processor_cr.htm) (Chief River) series Includes: 
+The [Core i7](Core-i7/Core-i7-3800-readme.md) (Chief River) series Includes: 
 - CMA34CRD...4096/S60GX
 - CMA34CRD...8192/S60GX
 
@@ -32,13 +37,13 @@ The [Core i7](https://www.rtd.com/PC104/CM/processor_cr.htm) (Chief River) serie
 The RTD NVIDIA Jetson carrier series provides RTD ruggedization and stackable architecture to NVIDIA's popular Jetson line. 
 
 
-[Jetson AGX Orin Carrier](https://www.rtd.com/nvidia/CNV36JRAGX.htm)
+[Jetson AGX Orin Carrier](Jetson-AGX-Orin/AGX-Orin-readme.md)
 - CNV36JRAGX201HR 
 
-[Jetson Orin NX & Orin Nano](https://www.rtd.com/nvidia/CNV36JRN_nx.htm)
+[Jetson Orin NX & Orin Nano Carrier](Jetson-Orin-NX-Nano/Orin-NX-Nano-readme.md)
 - CNV36JRN201HR
 
-[Jetson Xavier NX](https://www.rtd.com/nvidia/CNV36JXNX.htm)
+[Jetson Xavier NX Carrier](Jetson-Xavier-NX/Xavier-NX-readme.md)
 - CNV36JXNX68201HR
 
 
@@ -57,8 +62,6 @@ cable kit. This kit provide power and reset buttons, a CMOS battery, and two USB
 settings and the real-time clock are lost when power is disconnected completely.
 
 
-
-
 ## Getting Technical Support
 
 If you require additional support with these products from RTD Embedded Technologies, contact us using the information below:
@@ -72,4 +75,4 @@ Telephone: (814) 234-8087\
 Fax: (814) 234-5218\
 Sales Information and Quotes: sales@rtd.com\
 Technical Assistance: techsupport@rtd.com\
-Web Site: [https://www.rtd.com](https://www.rtd.com)
+Website: [https://www.rtd.com](https://www.rtd.com)
