@@ -19,6 +19,10 @@ The integrated graphics in the Kaby Lake processor has it's own driver provided 
 driver can be found [here](https://www.intel.com/content/www/us/en/download/776137/intel-7th-10th-gen-processor-graphics-windows.html). 
 It can also be installed via the Windows Update process.
 
+## Intel Chipset Drivers
+
+The chipset drivers include support for peripheral devices. This will enable user features for the memory controller and other devices. 
+[Latest Version found here](https://www.intel.com/content/www/us/en/download/776553/intel-server-chipset-driver-for-windows-for-intel-server-boards-and-systems-based-on-intel-741-chipset.html).
 
 ## aDIO Connector (CN6) Linux and Windows 10/11
 Each of the RTD x86 CPUs have an aDIO connector on it for digital input and output usage. The driver for this is provided
