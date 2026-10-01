@@ -3,7 +3,9 @@ This package includes the full available catalog of RTD CPU manuals, and support
 The contents are broken up by processor series. In general, all manuals include information about all
 versions of the products including variations for our [IDAN and HiDAN](https://www.rtd.com/systems/default.htm)
 enclosures. The full list for each series will include the following sequences in the part name, in 
-addition to other numbers and letters. 
+addition to other numbers and letters. An easy way to find which board you have purchased in Windows 11 is to run the 
+"System Information" application and compare the "BaseBoard Product" to the products listed below. The same
+information can be found using `dmidecode` in Linux.
 
 If your RTD processor is not found here, such as our legacy devices. More information can 
 be found on our [website](https://www.rtd.com/PC104/PC104_cpuModule.htm#gsc.tab=0), or by contacting RTD.
