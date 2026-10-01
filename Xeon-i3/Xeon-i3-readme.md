@@ -1,5 +1,7 @@
 # Intel Xeon and Core i3 (Kaby Lake)
-The Intel Xeon and Core i3 processor SoMs (Kaby Lakes) support both Windows 10/11 and Linux. Linux has all of the 
+
+
+The [Intel Xeon and Core i3 processor SoMs](https://www.rtd.com/PC104/CM/processor_kb.htm) (Kaby Lakes) support both Windows 10/11 and Linux. Linux has all of the 
 required Intel drivers pre-installed as part of the most recent kernel versions for operation. Older versions 
 of Linux might require updates to the kernel or to newer versions in order to have the required driver software. 
 The only additional software required for full operation in Linux is the aDIO driver made by RTD.
