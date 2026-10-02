@@ -12,10 +12,8 @@ The intel trusted execution engine is a set hardware based security features. Th
 Simply extract it and follow the instructions for installation.
 
 ## Intel Chipset Drivers (Windows 11)
-The Intel Chipset drivers are required for more efficient usage of memory, and power. THey are provided in the Chipset_Win7_10 package.
+The Intel Chipset drivers are required for more efficient usage of memory, and power. They are provided in the Chipset_Win7_10 package.
 Simply extract it and follow the instructions for installation.
-
-
 
 ## aDIO Connector (CN6) Linux and Windows 10/11
 Each of the RTD x86 CPUs have an aDIO connector on it for digital input and output usage. The driver for this is provided

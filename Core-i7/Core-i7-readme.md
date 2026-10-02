@@ -7,11 +7,11 @@ The only additional software required for full operation in Linux is the aDIO dr
 For Windows there are various software packages that are recomended for proper operation that are provided by 
 Intel. These packages can be installed through the below methods. 
 
-## Chipset
+## Chipset Drivers (Windows 10/11)
 RTD redistributes the Intel Chipset as a intel_chipset_windows_v10.0.13.zip. Simply extract the folder and 
 follow the instructions to have the chipset installed.
 
-## aDIO Connector (CN6) Linux and Windows 10
+## aDIO Connector (CN6) Linux and Windows 10/11
 Each of the RTD x86 CPUs have an aDIO connector on it for digital input and output usage. The driver for this is provided
 on our GitHub page for both [Linux](https://github.com/RTD-Embedded/aDIO-Linux) and [Windows](https://github.com/RTD-Embedded/aDIO-Windows).
 The driver software is provided under the GPL 2.0 License and the RTD EULA.
