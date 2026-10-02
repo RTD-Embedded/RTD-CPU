@@ -7,6 +7,15 @@ The only additional software required for full operation in Linux is the aDIO dr
 For Windows there are various software packages that are recomended for proper operation that are provided by 
 Intel. These packages can be installed through the below methods. 
 
+## Intel Trusted Execution Engine Drivers (Windows 11)
+The intel trusted execution engine is a set hardware based security features. The driver for this is available in the TXE_Win7_10 package.
+Simply extract it and follow the instructions for installation.
+
+## Intel Chipset Drivers (Windows 11)
+The Intel Chipset drivers are required for more efficient usage of memory, and power. THey are provided in the Chipset_Win7_10 package.
+Simply extract it and follow the instructions for installation.
+
+
 
 ## aDIO Connector (CN6) Linux and Windows 10/11
 Each of the RTD x86 CPUs have an aDIO connector on it for digital input and output usage. The driver for this is provided
