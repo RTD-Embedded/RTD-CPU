@@ -7,7 +7,7 @@ addition to other numbers and letters. An easy way to find which board you have 
 "System Information" application and compare the "BaseBoard Product" to the products listed below. The same
 information can be found using `dmidecode` in Linux.
 
-If your RTD processor is not found here, such as our legacy devices. More information can 
+If your RTD processor is not found here, such as our legacy devices, more information can 
 be found on our [website](https://www.rtd.com/PC104/PC104_cpuModule.htm#gsc.tab=0), or by contacting RTD.
 
 ## Intel x86 Products
